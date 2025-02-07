@@ -1,0 +1,9 @@
+title: Your Documentation
+description: Your project documentation
+theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+search_enabled: true
+aux_links:
+  "View on GitHub":
+    - "//github.com/Anica01/Anica01.github.io"
